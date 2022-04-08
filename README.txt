@@ -3,7 +3,6 @@
              >>> CS 427 Final Project <<<
                   >>> Winter 2022 <<<
 
-by Mitchell Radford, Nour Rahal-Arabi and Michael Carris
 =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=
 
    DEPENDENCIES (minimum):
